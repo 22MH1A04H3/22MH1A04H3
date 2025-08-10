@@ -31,20 +31,20 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&show_icons=true" width="400">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark" width="400">
+  <img src="https://streak-stats.demolab.com?user=22MH1A04H3&theme=dark" width="400">
 </p>
 
 ---
 
 ### 🔗 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/dasu-koda-in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat">
   </a>
-  <a href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank">
+  <a href="https://www.youtube.com/channel/UCytgr1frE64qA2nOvzaCYxQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&style=flat">
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:devdasu090@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&style=flat">
   </a>
 </p>
