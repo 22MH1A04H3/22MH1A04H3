@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Current Focus: VLSI Design & Verification Projects</h3>
 
 I am an Electronics and Communication Engineering undergraduate from Aditya College of Engineering, passionate about **VLSI Design** and **Functional Verification**.  
-I work extensively with **Verilog**, **SystemVerilog**, and **UVM** using tools like **Cadence **, **QuestaSim**, and **Vivado**.
+I work extensively with **Verilog**, **SystemVerilog**, and **UVM** using tools like **Cadence**, **QuestaSim**, and **Vivado**.
 
 ---
 
