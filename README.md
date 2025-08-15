@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">🚀 Current Focus: VLSI Design & Verification Projects</h3>
+<h3 align="center">🚀 Current Focus: VLSI Design & Verification Projects </h3>
 
 I am an Electronics and Communication Engineering undergraduate from Aditya College of Engineering, passionate about **VLSI Design** and **Functional Verification**.  
 I work extensively with **Verilog**, **SystemVerilog**, and **UVM** using tools like **Cadence**, **QuestaSim**, and **Vivado**.
@@ -12,7 +12,7 @@ I work extensively with **Verilog**, **SystemVerilog**, and **UVM** using tools 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=34F7F1&center=true&vCenter=true&width=600&lines=VLSI+Enthusiast;RTL+Design+and+Verification;SystemVerilog+Learner" alt="Dynamic Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=34F7F1&center=true&vCenter=true&width=600&lines=RTL+Design+Engineer;Trained+Design+and+Verification+Engineer;UVM+Learner" alt="Dynamic Typing SVG" />
 </p>
 
 <p align="center">
@@ -76,8 +76,8 @@ I work extensively with **Verilog**, **SystemVerilog**, and **UVM** using tools 
 ---
 
 ### 🌟 Achievements
-- **500+ GitHub contributions** in the last year  
-- **100+ Verilog problems** solved on HDLBits  
+- **700+ GitHub contributions** in the last year  
+- **1+ Verilog problems** solved on HDLBits  
 - Daily practice of RTL design as part of **#100DaysOfVerilog**  
 - SystemVerilog learner focusing on functional verification  
 
