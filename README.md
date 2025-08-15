@@ -12,7 +12,7 @@ I work extensively with **Verilog**, **SystemVerilog**, and **UVM** using tools 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=34F7F1&center=true&vCenter=true&width=600&lines=RTL+Design+Engineer;Trained+Design+and+Verification+Engineer;UVM+Learner" alt="Dynamic Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=34F7F1&center=true&vCenter=true&width=600&lines=RTL+Design+Engineer;Design+and+Verification+Engineer;UVM+Learner" alt="Dynamic Typing SVG" />
 </p>
 
 <p align="center">
